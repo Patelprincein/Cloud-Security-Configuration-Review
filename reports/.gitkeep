@@ -1,0 +1,3 @@
+# This directory is intentionally left empty.
+# Timestamped Risk Register reports (CSV and HTML) will be saved here
+# when config_auditor.py is executed.
